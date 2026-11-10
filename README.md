@@ -8,7 +8,7 @@
 <p align="center" dir="rtl">كام ساعة راحت على الريلز؟ وكان ممكن تعمل فيهم إيه؟ اعرف… ومتزعلش.</p>
 
 <p align="center">
-  <a href="[PLAY STORE LINK]"><b>Google Play</b></a> (early access) · <a href="https://yakhebtak.app">yakhebtak.app</a>
+  <b>Google Play</b> (closed test, early access) · <a href="https://yakhebtak.app">yakhebtak.app</a>
 </p>
 
 <p align="center">
@@ -24,7 +24,7 @@ permission, and a website run on Terraform.
 
 ## By the numbers
 
-**800+** lines written and growing · **242** tests · **0** crashes in 5,000-event stress tests · **185 ms** cold start
+**800+** hand-written roast lines · **242** tests · **0** crashes in 5,000-event stress tests · **185 ms** cold start
 
 ## What it is
 
@@ -137,11 +137,9 @@ page `#EFEBE3`. The colour follows the level: yellow for a light week, red for a
 
 The icon is a face whose nose and mouth are the letter «خـ», the first letter of «خيبة», looking at you sideways.
 
-## Authorship and copyright
+## Copyright
 
-Ya Khebtak is my own idea and my own product. I created it, I own it, and I made every decision in it: the concept, the
-product, the voice, the design direction, the brand, and every line in the app, each one picked and edited by me
-before it ships.
+Ya Khebtak is my own idea and my own product.
 
 © 2026 Mohamed Aly. All rights reserved. The name «يا خيبتك» / Ya Khebtak, the icon, the lines, the screenshots and the
 design may not be copied, reused or adapted without my written permission. See [LICENSE](LICENSE).
@@ -150,7 +148,7 @@ design may not be copied, reused or adapted without my written permission. See [
 
 **Early access (alpha).** The app is in a closed test on Google Play since 9 November 2026: testers are using it every
 day and their feedback goes into each build, on the way to Google's approval for the public release. v1 will be free.
-The source code is private; this repo is a showcase.
+The source code is private; this repo is a showcase. Source available to hiring teams on request.
 
 ---
 

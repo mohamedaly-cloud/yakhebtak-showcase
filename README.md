@@ -148,7 +148,7 @@ design may not be copied, reused or adapted without my written permission. See [
 
 **Early access (alpha).** The app is in a closed test on Google Play since 9 November 2026: testers are using it every
 day and their feedback goes into each build, on the way to Google's approval for the public release. v1 will be free.
-The source code is private; this repo is a showcase. Source available to hiring teams on request.
+The source code is private; this repo is a showcase.
 
 ---
 
